@@ -144,7 +144,7 @@ const App = () => {
         <Box mt={4} textAlign="center">
           <img src={logo} alt="logo" style={{ marginBottom: '20px', height: '200px' }} />
           <Typography variant="h4" gutterBottom>
-          Design a Pop Over Component
+          Design a Accordian Component
           </Typography>
           <AccordionComponent/>
           <Button variant="contained" color="primary" onClick={handleOpen} style={{ marginTop: '20px' }}>
